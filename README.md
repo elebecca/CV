@@ -1,55 +1,68 @@
-## Your Name
+## Elena Beccaro
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I am a passionate future junior developer with a strong background in graphic design,
+with good communication skills, can-do attitude and always looking to go the extra mile.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
+My skills are mainly focused in graphics design. However, I found out that coding is an endless source to
+release my inner creativity and problem-solving skills.
 
 #### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+- Creative - I have learned to be creative with my problem-solving and try to look things with a different point of you.
+- Adapt to changing environments - The biggest change was for me movine on one other country. A new culture, new language 
+- with a different way to work.
+- Organization and time managing - I worked many years like freelance it was necessary know how to manage the time and
+  be able to focus in the priorities when there is a deadline.
+- Multitasking - my job brought me to work often at more than one task at the time.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (start_date Jauary 2020 to end_date April 2020)
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Javascript, html5, css
+- TDD
+- Ruby
+- RSpec
 
-#### Your University / College (start_date to end_date)
+#### Università degli Studi di Padova (start_date 2009 to end_date 2013)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- Qualification awarded: Bachelor degree in Contemporary Arts
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+I first started with online course “Freecode” (https://www.freecodecamp.org) 
+but I have also attended front-end developers meetups. So far, the best experience was
+“Codebar London” (https://codebar.io/london)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Freelance** (start_date September 2013 to end_date now)    
+*Designer*  
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+- Development of  user interfaces using CSS, HTML, JQuery and Javascript
+- Use of Bootstrap 3 for UI design.
+- Use of GIT as a collaborative versioning tool.
+- Use of Adobe Photoshop/Illustrator/InDesign.
+- Design of logos, flyers, advertisements, illustrations, calendars, posters and corporate identity.
+- Creation of custom-made solutions based on customer’s needs.
+
+
+**IntegrityUK** (start_date July 2015 to end_date June 2016)   
+*Graphic designer* 
+
+- Research and analysis of data used for statistical purposes.
+- Creation of infographics and images for publications in social media.
+- Production of advertisement material for events.
+- Design of documents layout using Adobe Creative
+- Design and creation of logos using Adobe Illustrator.
+
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+paint
+travel
+cook -I'm italian
+always looking new things to do
