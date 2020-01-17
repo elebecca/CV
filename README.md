@@ -62,7 +62,7 @@ but I have also attended front-end developers meetups. So far, the best experien
 
 ## Hobbies
 
-paint
-travel
-cook -I'm italian
-always looking new things to do
+- paint
+- travel
+- cook -I'm italian
+- always looking new things to do
