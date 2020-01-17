@@ -33,8 +33,8 @@ release my inner creativity and problem-solving skills.
 
 #### Any other qualifications
 
-Responsive Web Design - “Freecode” (https://www.freecodecamp.org) 
-HTML, CSS, JQuery & Javascript Workshop - “Codebar London” (https://codebar.io/london)
+- Responsive Web Design - “Freecode” (https://www.freecodecamp.org) 
+- HTML, CSS, JQuery & Javascript Workshop - “Codebar London” (https://codebar.io/london)
 
 ## Experience
 
