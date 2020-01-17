@@ -1,7 +1,7 @@
 ## Elena Beccaro
 
-I am a passionate future junior developer with a strong background in graphic design,
-with good communication skills, can-do attitude and always looking to go the extra mile.
+I am a passionate future developer with a strong background in graphic design,
+a good communication skills, can-do attitude and always looking to go the extra mile.
 
 ## Skills
 
@@ -27,15 +27,14 @@ release my inner creativity and problem-solving skills.
 - Ruby
 - RSpec
 
-#### Università degli Studi di Padova (start_date 2009 to end_date 2013)
+#### University of Padua (start_date 2009 to end_date 2013)
 
 - Qualification awarded: Bachelor degree in Contemporary Arts
 
 #### Any other qualifications
 
-I first started with online course “Freecode” (https://www.freecodecamp.org) 
-but I have also attended front-end developers meetups. So far, the best experience was
-“Codebar London” (https://codebar.io/london)
+Responsive Web Design - “Freecode” (https://www.freecodecamp.org) 
+HTML, CSS, JQuery & Javascript Workshop - “Codebar London” (https://codebar.io/london)
 
 ## Experience
 
@@ -64,5 +63,5 @@ but I have also attended front-end developers meetups. So far, the best experien
 
 - paint
 - travel
-- cook -I'm italian
+- cook 
 - always looking new things to do
