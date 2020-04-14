@@ -5,6 +5,7 @@
 <div align="center">
 
 [About ](#About) |
+[Projects ](#Projects) |
 [Skills ](#Skills) |
 [Education ](#Education) |
 [Experience ](#Experience) |
@@ -16,6 +17,16 @@
 ## About
 I am a passionate future developer with a strong background in graphic design,
 a good communication skills, can-do attitude and always looking to go the extra mile.
+
+## Projects
+
+Whilst studying at Makers Academy I have fundamentally 'learnt how to learn' new technologies through pair programming, OO, TDD and XP principles. For a complete list of my projects, see my [Github](https://github.com/elebecca).
+
+| Project title    | Timeframe          | Technologies        |
+| ---                                                                     |---                 |---                                                        |
+| [Makers bnb](https://github.com/elebecca/Makersbnb)  | 1 wk group project |  A public messaging service similar to Aribnb : Ruby, Sinatra, CSS, HTML, RSpec, Capybara, bootstrap, PostgreSQL          |
+| [Post-box](https://github.com/elebecca/MakersPostBox) | 2 wk group project| An online game: Ruby on rails, Javascript , CSS, Bootstrap, HTML, RSpec, Capybara, PostgreSQL                                 |
+| [Thermostat](https://github.com/elebecca/thermostat)  | 2 days solo project| Aprojcet for a interactive thermometer: Javascript, Jasmin, Html, Css
 
 ## Skills
 
@@ -35,10 +46,10 @@ My skills are mainly focused in graphics design. However, I found out that codin
 
 #### Makers Academy (start_date Jauary 2020 to end_date April 2020)
 
-- HTML, css,Bootstrap
+- HTML, css, Bootstrap
 - OOP, TDD, SOLID, MVC, DDD
 - Rspec, Capybara, Jasmine,
-- Ruby, Sinatra, Ruby on Rails, JavaScript, Node.js, React
+- Ruby, Sinatra, Ruby on Rails, JavaScript, Node.js, React, PostgreSQL
 
 
 #### University of Padua (start_date 2009 to end_date 2013)
