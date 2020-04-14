@@ -1,12 +1,25 @@
-## Elena Beccaro
+<h1 align="center">Elena Beccaro</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/elenabeccaro/">
+<img src="./images/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+<div align="center">
 
+[About ](#About) |
+[Skills ](#Skills) |
+[Education ](#Education) |
+[Experience ](#Experience) |
+[Interests ](#Hobbies)
+
+</div>
+
+---------
+## About
 I am a passionate future developer with a strong background in graphic design,
 a good communication skills, can-do attitude and always looking to go the extra mile.
 
 ## Skills
 
-My skills are mainly focused in graphics design. However, I found out that coding is an endless source to
-release my inner creativity and problem-solving skills.
+My skills are mainly focused in graphics design. However, I found out that coding is an endless source to release my inner creativity and problem-solving skills.
 
 #### Another Skill
 
@@ -22,10 +35,11 @@ release my inner creativity and problem-solving skills.
 
 #### Makers Academy (start_date Jauary 2020 to end_date April 2020)
 
-- Javascript, html5, css
-- TDD
-- Ruby
-- RSpec
+- HTML, css,Bootstrap
+- OOP, TDD, SOLID, MVC, DDD
+- Rspec, Capybara, Jasmine,
+- Ruby, Sinatra, Ruby on Rails, JavaScript, Node.js, React
+
 
 #### University of Padua (start_date 2009 to end_date 2013)
 
