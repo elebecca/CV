@@ -1,7 +1,7 @@
 <h1 align="center">Elena Beccaro</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/elenabeccaro/">
-<img src="./images/twitter-logo-final.png" alt="twitter" hspace="50" height="42" width="42"></a>
+<img src="./images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 <div align="center">
 
 [About ](#About) |
