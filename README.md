@@ -24,8 +24,8 @@ Whilst studying at Makers Academy I have fundamentally 'learnt how to learn' new
 
 | Project title    | Timeframe          | Technologies        |
 | ---                                                                     |---                 |---                                                        |
-| [Makers bnb](https://github.com/elebecca/Makersbnb)  | 1 wk group project |  A public messaging service similar to Aribnb : Ruby, Sinatra, CSS, HTML, RSpec, Capybara, bootstrap, PostgreSQL          |
-| [Post-box](https://github.com/elebecca/MakersPostBox) | 2 wk group project| An online game: Ruby on rails, Javascript , CSS, Bootstrap, HTML, RSpec, Capybara, PostgreSQL                                 |
+| [Makers bnb](https://github.com/elebecca/Makersbnb)  | 1 wk group project |  A public messaging service similar to Aribnb : Ruby, Sinatra, CSS, HTML, RSpec, Capybara, bootstrap, PostgreSQL, Heroku        |
+| [Post-box](https://github.com/elebecca/MakersPostBox) | 2 wk group project| An online game: Ruby on rails, Javascript , CSS, Bootstrap, HTML, RSpec, Capybara, PostgreSQL, TravisCI, CodeClimate, Heroku                                |
 | [Thermostat](https://github.com/elebecca/thermostat)  | 2 days solo project| Aprojcet for a interactive thermometer: Javascript, Jasmin, Html, Css
 
 ## Skills
