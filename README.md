@@ -15,7 +15,7 @@
 
 ---------
 ## About
-I am a passionate future developer with a strong background in graphic design,
+I am a passionate developer with a strong background in graphic design,
 a good communication skills, can-do attitude and always looking to go the extra mile.
 
 ## Projects
@@ -86,7 +86,7 @@ My skills are mainly focused in graphics design. However, I found out that codin
 
 ## Hobbies
 
-- paint
-- travel
-- cook 
-- always looking new things to do
+- Painting
+- Traveling
+- Cooking 
+- Always looking new things to do
