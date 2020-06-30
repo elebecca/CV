@@ -15,8 +15,9 @@
 
 ---------
 ## About
-I am a passionate developer with a strong background in graphic design,
-a good communication skills, can-do attitude and always looking to go the extra mile.
+I am a passionate developer with a strong background in graphic design. I'm fascinated about the intersection of technology of creativity. I’ve  good communication skills, a can-do attitude and am always looking to go the extra mile. Recently I’ve been a graduate in Makers Academy (London's leading programming bootcamp) in order to become upskilled with best practice tools and methodologies.
+I like to stay up to date with the latest frameworks and programming techniques.
+
 
 ## Projects
 
@@ -32,6 +33,16 @@ Whilst studying at Makers Academy I have fundamentally 'learnt how to learn' new
 
 My skills are mainly focused in graphics design. However, I found out that coding is an endless source to release my inner creativity and problem-solving skills.
 
+#### Languages & Frameworks: 
+Ruby, Rails, RSpec, Sinatra, Capybara
+JavaScript, ReactJS, jQuery, Jasmine
+PostgreSQL, ActiveRecord
+HTML5, CSS3, Bootstrap
+#### CI and Accountability: 	
+TravisCI, CodeClimate, Heroku
+#### Design tools: 			
+Adobe Photoshop/Illustrator/InDesign.
+
 #### Another Skill
 
 - Creative - I have learned to be creative with my problem-solving and try to look things with a different point of you.
@@ -41,16 +52,50 @@ My skills are mainly focused in graphics design. However, I found out that codin
   be able to focus in the priorities when there is a deadline.
 - Multitasking - my job brought me to work often at more than one task at the time.
 
+## Experience
+**Makers Academy** (start_date Jauary 2020 to end_date April 2020)  
+*Software Engineer Training*
+Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fundamentals of software engineering with Ruby & JavaScript.
+
+- Write code using TDD
+- Creating functional database in PostgreSQL
+- Build a web app back-end and front-end in Javascript and Ruby 
+- Version control with Git, and collaboration with GitHub
+- Follow an effective debugging process
+#### Achievements
+- Write clean, reliable, and maintainable code
+- Principles of object-oriented design and test-driven development
+- Pair using the driver-navigator style
+- Work in an agile development team
+- Run stand-ups and retrospectives
+- Break down projects into tasks and allocate them to pairs
+
+**Freelance** (start_date September 2013 to end_date now)    
+*Designer*  
+
+- Development of user interfaces using CSS, HTML, JQuery and Javascript
+- Use of Bootstrap for UI design.
+- Use of Adobe Photoshop/Illustrator/InDesign.
+- Design of logos, flyers, advertisements, illustrations, calendars, posters and corporate identity.
+- Creation of business cards and brochures.
+- Creation of custom-made solutions based on customer’s needs.
+#### Achievements
+- Work effectively both in team-based environments and independently
+- Attention to detail 
+- Self-trained freelance web developer.
+
+**IntegrityUK** (start_date July 2015 to end_date June 2016)   
+*Graphic designer* 
+
+- Updating the UI in the main website with HTML/CSS.
+- Use of Adobe Photoshop/Illustrator/InDesign.
+- Creation of infographics and images for publications in social media.
+- Developing the brand design
+#### Achievements
+- Working on several projects simultaneously. 
+- Manage the time effectively, focusing on tasks of high importance and urgency first.
 
 ## Education
-
-#### Makers Academy (start_date Jauary 2020 to end_date April 2020)
-
-- HTML, css, Bootstrap
-- OOP, TDD, SOLID, MVC, DDD
-- Rspec, Capybara, Jasmine,
-- Ruby, Sinatra, Ruby on Rails, JavaScript, Node.js, React, PostgreSQL
-
 
 #### University of Padua (start_date 2009 to end_date 2013)
 
@@ -61,32 +106,9 @@ My skills are mainly focused in graphics design. However, I found out that codin
 - Responsive Web Design - “Freecode” (https://www.freecodecamp.org) 
 - HTML, CSS, JQuery & Javascript Workshop - “Codebar London” (https://codebar.io/london)
 
-## Experience
-
-**Freelance** (start_date September 2013 to end_date now)    
-*Designer*  
-
-- Development of  user interfaces using CSS, HTML, JQuery and Javascript
-- Use of Bootstrap 3 for UI design.
-- Use of GIT as a collaborative versioning tool.
-- Use of Adobe Photoshop/Illustrator/InDesign.
-- Design of logos, flyers, advertisements, illustrations, calendars, posters and corporate identity.
-- Creation of custom-made solutions based on customer’s needs.
-
-
-**IntegrityUK** (start_date July 2015 to end_date June 2016)   
-*Graphic designer* 
-
-- Research and analysis of data used for statistical purposes.
-- Creation of infographics and images for publications in social media.
-- Production of advertisement material for events.
-- Design of documents layout using Adobe Creative
-- Design and creation of logos using Adobe Illustrator.
-
-
 ## Hobbies
 
-- Painting
-- Traveling
-- Cooking 
-- Always looking new things to do
+- painting 
+- traveling 
+- cooking
+- always looking new things to do
