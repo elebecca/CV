@@ -53,7 +53,8 @@ Adobe Photoshop/Illustrator/InDesign.
 - Multitasking - my job brought me to work often at more than one task at the time.
 
 ## Experience
-**Makers Academy** (start_date Jauary 2020 to end_date April 2020)  
+## Makers Academy##
+(start_date Jauary 2020 to end_date April 2020)  
 *Software Engineer Training*
 Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fundamentals of software engineering with Ruby & JavaScript.
 
@@ -62,6 +63,7 @@ Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fu
 - Build a web app back-end and front-end in Javascript and Ruby 
 - Version control with Git, and collaboration with GitHub
 - Follow an effective debugging process
+
 #### Achievements
 - Write clean, reliable, and maintainable code
 - Principles of object-oriented design and test-driven development
@@ -70,8 +72,9 @@ Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fu
 - Run stand-ups and retrospectives
 - Break down projects into tasks and allocate them to pairs
 
-**Freelance** (start_date September 2013 to end_date now)    
-*Designer*  
+## Freelance
+(start_date September 2013 to end_date now)    
+*Graphic Designer*  
 
 - Development of user interfaces using CSS, HTML, JQuery and Javascript
 - Use of Bootstrap for UI design.
@@ -79,18 +82,21 @@ Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fu
 - Design of logos, flyers, advertisements, illustrations, calendars, posters and corporate identity.
 - Creation of business cards and brochures.
 - Creation of custom-made solutions based on customer’s needs.
+
 #### Achievements
 - Work effectively both in team-based environments and independently
 - Attention to detail 
 - Self-trained freelance web developer.
 
-**IntegrityUK** (start_date July 2015 to end_date June 2016)   
+## IntegrityUK
+(start_date July 2015 to end_date June 2016)   
 *Graphic designer* 
 
 - Updating the UI in the main website with HTML/CSS.
 - Use of Adobe Photoshop/Illustrator/InDesign.
 - Creation of infographics and images for publications in social media.
 - Developing the brand design
+
 #### Achievements
 - Working on several projects simultaneously. 
 - Manage the time effectively, focusing on tasks of high importance and urgency first.
