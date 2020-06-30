@@ -53,7 +53,7 @@ Adobe Photoshop/Illustrator/InDesign.
 - Multitasking - my job brought me to work often at more than one task at the time.
 
 ## Experience
-## Makers Academy##
+### Makers Academy
 (start_date Jauary 2020 to end_date April 2020)  
 *Software Engineer Training*
 Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fundamentals of software engineering with Ruby & JavaScript.
@@ -72,7 +72,7 @@ Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fu
 - Run stand-ups and retrospectives
 - Break down projects into tasks and allocate them to pairs
 
-## Freelance
+### Freelance
 (start_date September 2013 to end_date now)    
 *Graphic Designer*  
 
@@ -88,7 +88,7 @@ Makers Academy is a 16-week intensive coding bootcamp focused on teaching the fu
 - Attention to detail 
 - Self-trained freelance web developer.
 
-## IntegrityUK
+### IntegrityUK
 (start_date July 2015 to end_date June 2016)   
 *Graphic designer* 
 
