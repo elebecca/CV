@@ -16,6 +16,9 @@
 |Project        |Description                                           |Technologies and processes              |
 |----------|------------------------------------------------------|----------------------------------------|
 |[COVID-19-Tracker-Application](https://github.com/elebecca/COVID-19-Tracker-Application.git)</b><br><br>![screenshot](screenshot.PNG)</b><br><br>|Create a full COVID-19 Tracker.<br><br> 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/COVID-19-Tracker-Application.git)<br> Deployed at [COVID-19-Tracker-Application]https://covid19statswebsite.netlify.com/) |React, API, Charts.JS, Material UI, HTML, CSS, <br>XP, Git|
+|[Makersbnb](https://github.com/elebecca/Makersbnb.git)</b><br><br>![screenshot](Makersb&b.PNG)</b><br><br>|A full stack Airbnb clone demonstrating core functionality<br><br>Gr 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/Makersbnb.git)
+ |Ruby, Rails, ActiveRecord (postgreSQL), RSpec, Capybara Code<br> Quality & Deployment<br>
+Travis CI, Rubocop, Code Climate|
 
 
 
