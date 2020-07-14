@@ -2,6 +2,8 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/elenabeccaro/">
 <img src="images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<a href="https://dribbble.com/ElenaBeccaro">
+<img src="images/dribbble.png" alt="dribbble" hspace="50" height="42" width="42"></a>
 <div align="center">
 
 [About ](#About) |
