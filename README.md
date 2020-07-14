@@ -4,6 +4,13 @@
 <img src="./images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 <div align="center">
 
+
+<h1 align="center">Elena Beccaro</h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/elenabeccaro/">
+<img src="images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+<div align="center">
+
 [About ](#About) |
 [Projects ](#Projects) |
 [Skills ](#Skills) |
@@ -12,6 +19,12 @@
 [Interests ](#Hobbies)
 
 </div>
+
+|Project        |Description                                           |Technologies and processes              |
+|----------|------------------------------------------------------|----------------------------------------|
+|[COVID-19-Tracker-Application](https://github.com/elebecca/COVID-19-Tracker-Application.git)</b><br><br>![Screenshot](images/screenshot.png)</b><br><br>|Create a full COVID-19 Tracker.<br><br> 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/COVID-19-Tracker-Application.git)<br> Deployed at [COVID-19-Tracker-Application]https://covid19statswebsite.netlify.com/) |React, API, Charts.JS, Material UI, HTML, CSS, <br>XP, Git|
+
+
 
 ---------
 ## About
@@ -22,6 +35,7 @@ I like to stay up to date with the latest frameworks and programming techniques.
 ## Projects
 
 Whilst studying at Makers Academy I have fundamentally 'learnt how to learn' new technologies through pair programming, OO, TDD and XP principles. For a complete list of my projects, see my [Github](https://github.com/elebecca).
+
 
 | Project title    | Timeframe          | Technologies        |
 | ---                                                                     |---                 |---                                                        |
