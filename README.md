@@ -15,7 +15,7 @@
 
 |Project        |Description                                           |Technologies and processes              |
 |----------|------------------------------------------------------|----------------------------------------|
-|[COVID-19-Tracker-Application](https://github.com/elebecca/COVID-19-Tracker-Application.git)</b><br><br>![Screenshot](images/screenshot.PNG)</b><br><br>|Create a full COVID-19 Tracker.<br><br> 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/COVID-19-Tracker-Application.git)<br> Deployed at [COVID-19-Tracker-Application]https://covid19statswebsite.netlify.com/) |React, API, Charts.JS, Material UI, HTML, CSS, <br>XP, Git|
+|[COVID-19-Tracker-Application](https://github.com/elebecca/COVID-19-Tracker-Application.git)</b><br><br>![screenshot](screenshot.PNG)</b><br><br>|Create a full COVID-19 Tracker.<br><br> 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/COVID-19-Tracker-Application.git)<br> Deployed at [COVID-19-Tracker-Application]https://covid19statswebsite.netlify.com/) |React, API, Charts.JS, Material UI, HTML, CSS, <br>XP, Git|
 
 
 
