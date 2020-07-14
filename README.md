@@ -13,16 +13,6 @@
 
 </div>
 
-|Project        |Description                                           |Technologies and processes              |
-|----------|------------------------------------------------------|----------------------------------------|
-|[COVID-19-Tracker-Application](https://github.com/elebecca/COVID-19-Tracker-Application.git)</b><br><br>![screenshot](covid.PNG)</b><br><br>|Create a full COVID-19 Tracker.<br><br> solo project 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/COVID-19-Tracker-Application.git)<br> Deployed at [COVID-19-Tracker-Application](https://covid19statswebsite.netlify.com/) |React, API, Charts.JS, Material UI, HTML, CSS, <br>XP, Git|
-[Minefiel](https://github.com/elebecca/Minefield)</b><br><br>![screenshot](minefield.png)</b><br><br>|Create a Minefield game.<br><br> solo project 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/Minefield) | Javascript, CSS <br>XP, Git |
-[PostBox](https://github.com/elebecca/MakersPostBox)</b><br><br>![screenshot](postbox.PNG)</b><br><br>|<br><br>PostBox is a Virtual gifting app.In these times of isolation it’s more important than ever to spread happiness. This is a virtual care packages to send to family, friends and other loved ones. Group project 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/MakersPostBox) |Ruby on rails, Javascript , CSS, Bootstrap, HTML, RSpec, Capybara, PostgreSQL, TravisCI, CodeClimate, Heroku  |
-|[Makersbnb](https://github.com/elebecca/Makersbnb.git)</b><br><br>![screenshot](Makersb&b.PNG)</b><br><br>|A full stack Airbnb clone demonstrating core functionality<br><br>Group project 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/Makersbnb.git) |Ruby, Rails, ActiveRecord (postgreSQL), RSpec, Capybara Code, Travis CI, Rubocop, Code Climate|
-
-
-
-
 ---------
 ## About
 I am a passionate developer with a strong background in graphic design. I'm fascinated about the intersection of technology of creativity. I’ve  good communication skills, a can-do attitude and am always looking to go the extra mile. Recently I’ve been a graduate in Makers Academy (London's leading programming bootcamp) in order to become upskilled with best practice tools and methodologies.
@@ -33,12 +23,12 @@ I like to stay up to date with the latest frameworks and programming techniques.
 
 Whilst studying at Makers Academy I have fundamentally 'learnt how to learn' new technologies through pair programming, OO, TDD and XP principles. For a complete list of my projects, see my [Github](https://github.com/elebecca).
 
-
-| Project title    | Timeframe          | Technologies        |
-| ---                                                                     |---                 |---                                                        |
-
-| [Post-box](https://github.com/elebecca/MakersPostBox) | 2 wk group project| An online game: Ruby on rails, Javascript , CSS, Bootstrap, HTML, RSpec, Capybara, PostgreSQL, TravisCI, CodeClimate, Heroku                                |
-| [Thermostat](https://github.com/elebecca/thermostat)  | 2 days solo project| Aprojcet for a interactive thermometer: Javascript, Jasmin, Html, Css
+|Project        |Description                                           |Technologies and processes              |
+|----------|------------------------------------------------------|----------------------------------------|
+|[COVID-19-Tracker-Application](https://github.com/elebecca/COVID-19-Tracker-Application.git)</b><br><br>![screenshot](covid.PNG)</b><br><br>|Create a full COVID-19 Tracker.<br><br> Solo project 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/COVID-19-Tracker-Application.git)<br> Deployed at [COVID-19-Tracker-Application](https://covid19statswebsite.netlify.com/) |React, API, Charts.JS, Material UI, HTML, CSS, <br>XP, Git|
+[Minefiel](https://github.com/elebecca/Minefield)</b><br><br>![screenshot](minefield.png)</b><br><br>|Create a Minefield game.<br><br> Solo project 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/Minefield) | Javascript, CSS <br>XP, Git |
+[PostBox](https://github.com/elebecca/MakersPostBox)</b><br><br>![screenshot](postbox.PNG)</b><br><br>|<br><br>PostBox is a Virtual gifting app.In these times of isolation it’s more important than ever to spread happiness. This is a virtual care packages to send to family, friends and other loved ones. Group project 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/MakersPostBox) |Ruby on rails, Javascript , CSS, Bootstrap, HTML, RSpec, Capybara, PostgreSQL, TravisCI, CodeClimate, Heroku  |
+|[Makersbnb](https://github.com/elebecca/Makersbnb.git)</b><br><br>![screenshot](Makersb&b.PNG)</b><br><br>|A full stack Airbnb clone demonstrating core functionality<br><br>Group project 1.5 weeks weeks<br><br>GitHub repo [here](https://github.com/elebecca/Makersbnb.git) |Ruby, Rails, ActiveRecord (postgreSQL), RSpec, Capybara Code, Travis CI, Rubocop, Code Climate|
 
 ## Skills
 
