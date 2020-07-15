@@ -5,6 +5,9 @@
 <a href="https://dribbble.com/ElenaBeccaro">
 <img src="images/dribbble.png" alt="dribbble" hspace="50" height="42" width="42"></a>
 <div align="center">
+<a href="https://www.codewars.com/users/elebecca">
+<img src="images/codewars.png" alt="codewars" hspace="50" height="42" width="42"></a>
+<div align="center">
 
 [About ](#About) |
 [Projects ](#Projects) |
