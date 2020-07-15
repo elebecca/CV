@@ -1,4 +1,5 @@
 <h1 align="center">Elena Beccaro</h1>
+<div align="center">
 <p align="center">
 <a href="https://www.linkedin.com/in/elenabeccaro/">
 <img src="images/linkedin.png" alt="linkedin" hspace="50" height="42" width="42"></a>
@@ -9,7 +10,7 @@
 <a href="https://www.codewars.com/users/elebecca">
 <img src="images/codewars.png" alt="codewars" hspace="50" height="42" width="42"></a>
 
-<div align="center">
+
 [About ](#About) |
 [Projects ](#Projects) |
 [Skills ](#Skills) |
