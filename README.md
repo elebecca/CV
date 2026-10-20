@@ -69,10 +69,8 @@ I enjoy learning through building real projects and am currently developing Red 
 
 ### Design
 
-- Adobe Photoshop
-- Illustrator
-- InDesign
-- UI design
+- Adobe Creative Cloud
+- Figma
 
 ## Selected Projects
 
